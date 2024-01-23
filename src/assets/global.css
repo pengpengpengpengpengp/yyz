@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/*
+把所有元素变成盒装模型
+*/
+* {
+/*    外边距不会额外占用1px像素*/
+    box-sizing: border-box;
+}
